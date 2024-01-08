@@ -1,0 +1,7 @@
+folder sree
+text document -- alpa
+address delete--type cmd
+git init
+git status
+git add alpa.txt
+git status
